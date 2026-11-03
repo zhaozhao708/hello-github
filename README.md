@@ -11,3 +11,5 @@
 | `git commit -m "说明"` | 存一个版本 |
 | `git push` | 推送到 GitHub |
 | `gh repo create` | 在 GitHub 上建仓库 |
+
+2026-11-03 我第一次亲手改代码。

@@ -1,4 +1,6 @@
-﻿# hello-github
+﻿> 本仓库由 DeepSeek 智能体协作维护。
+
+# hello-github
 
 我的第一个 GitHub 仓库，2026-11-03 用 `gh` 命令行创建。
 
